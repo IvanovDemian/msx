@@ -1,0 +1,12 @@
+{
+    "name": "Мой MSX плейлист",
+    "version": "1.0.0",
+    "parameter": "menu:http://example.com/msx/myplaylist.json",
+    "welcome": "none",
+    "launcher": {
+        "type": "default",
+        "icon": "playlist-play",
+        "image": "none",
+        "color": "#0078d7"
+    }
+}
